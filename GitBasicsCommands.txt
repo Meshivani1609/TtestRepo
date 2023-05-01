@@ -1,1 +1,4 @@
 git init ---> to initialise git repo in local system
+
+
+git maine naya branch banaya mai uspe changes karr rha hun
