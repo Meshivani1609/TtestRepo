@@ -1,1 +1,4 @@
 git init ---> to initialise git repo in local system
+
+
+git status ---> to check status of git
